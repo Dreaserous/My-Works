@@ -1,0 +1,30 @@
+Please give the yard file:
+1: ----------------------
+2: --------------------c-
+3: ----------------------
+4: --------------------T-
+5: ----------------------
+Locomotive count:  1
+Destination count: 1
+
+What is your next command?
+
+The locomotive on track 4 moved 0 cars to track 2.
+
+1: ----------------------
+2: -------------------cT-
+3: ----------------------
+4: ----------------------
+5: ----------------------
+*** ALERT***  The train on track 2, which had 1 cars, departs for destination c.
+
+The last locomotive has departed!
+
+1: ----------------------
+2: ----------------------
+3: ----------------------
+4: ----------------------
+5: ----------------------
+Locomotive count:  0
+Destination count: 0
+

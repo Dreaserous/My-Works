@@ -1,0 +1,52 @@
+Please give the yard file:
+1: ---------------cacbcaecaeT-
+2: ------------------aadcbccT-
+3: -------------bbaabecadbcde-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+ERROR: Could not convert the 'count' value to an integer: 'x'
+
+1: ---------------cacbcaecaeT-
+2: ------------------aadcbccT-
+3: -------------bbaabecadbcde-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+ERROR: Could not convert the 'from-track' value to an integer: 'x'
+
+1: ---------------cacbcaecaeT-
+2: ------------------aadcbccT-
+3: -------------bbaabecadbcde-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+ERROR: Could not convert the 'to-track' value to an integer: 'x'
+
+1: ---------------cacbcaecaeT-
+2: ------------------aadcbccT-
+3: -------------bbaabecadbcde-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+Quitting!

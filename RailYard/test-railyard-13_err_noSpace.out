@@ -1,0 +1,76 @@
+Please give the yard file:
+1: ---------------cacbcaecaeT-
+2: ------------------aadcbccT-
+3: -------------bbaabecadbcde-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+The locomotive on track 1 moved 10 cars to track 3.
+
+1: ---------------------------
+2: ------------------aadcbccT-
+3: --bbaabecadbcdecacbcaecaeT-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+The locomotive on track 3 moved 0 cars to track 1.
+
+1: -------------------------T-
+2: ------------------aadcbccT-
+3: ---bbaabecadbcdecacbcaecae-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+ERROR: Cannot move 3 cars to track 3 because it doesn't have enough space.
+1: -------------------------T-
+2: ------------------aadcbccT-
+3: ---bbaabecadbcdecacbcaecae-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+ERROR: Cannot move 2 cars to track 3 because it doesn't have enough space.
+1: -------------------------T-
+2: ------------------aadcbccT-
+3: ---bbaabecadbcdecacbcaecae-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+The locomotive on track 2 moved 1 cars to track 3.
+
+1: -------------------------T-
+2: --------------------aadcbc-
+3: -bbaabecadbcdecacbcaecaecT-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+Quitting!

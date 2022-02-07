@@ -1,0 +1,116 @@
+Please give the yard file:
+1: --------------------T-
+2: -----------cbbbbaaaaT-
+3: -----------aaabbbbbbT-
+4: ----------------------
+5: ----------------------
+Locomotive count:  3
+Destination count: 3
+
+What is your next command?
+
+The locomotive on track 2 moved 8 cars to track 4.
+
+1: --------------------T-
+2: --------------------c-
+3: -----------aaabbbbbbT-
+4: ------------bbbbaaaaT-
+5: ----------------------
+Locomotive count:  3
+Destination count: 3
+
+What is your next command?
+
+The locomotive on track 1 moved 0 cars to track 2.
+
+1: ----------------------
+2: -------------------cT-
+3: -----------aaabbbbbbT-
+4: ------------bbbbaaaaT-
+5: ----------------------
+*** ALERT***  The train on track 2, which had 1 cars, departs for destination c.
+
+1: ----------------------
+2: ----------------------
+3: -----------aaabbbbbbT-
+4: ------------bbbbaaaaT-
+5: ----------------------
+Locomotive count:  2
+Destination count: 2
+
+What is your next command?
+
+The locomotive on track 3 moved 0 cars to track 2.
+
+1: ----------------------
+2: --------------------T-
+3: ------------aaabbbbbb-
+4: ------------bbbbaaaaT-
+5: ----------------------
+Locomotive count:  2
+Destination count: 2
+
+What is your next command?
+
+The locomotive on track 4 moved 8 cars to track 3.
+
+1: ----------------------
+2: --------------------T-
+3: ---aaabbbbbbbbbbaaaaT-
+4: ----------------------
+5: ----------------------
+Locomotive count:  2
+Destination count: 2
+
+What is your next command?
+
+The locomotive on track 3 moved 14 cars to track 4.
+
+1: ----------------------
+2: --------------------T-
+3: ------------------aaa-
+4: ------bbbbbbbbbbaaaaT-
+5: ----------------------
+Locomotive count:  2
+Destination count: 2
+
+What is your next command?
+
+The locomotive on track 4 moved 4 cars to track 3.
+
+1: ----------------------
+2: --------------------T-
+3: -------------aaaaaaaT-
+4: -----------bbbbbbbbbb-
+5: ----------------------
+*** ALERT***  The train on track 3, which had 7 cars, departs for destination a.
+
+1: ----------------------
+2: --------------------T-
+3: ----------------------
+4: -----------bbbbbbbbbb-
+5: ----------------------
+Locomotive count:  1
+Destination count: 1
+
+What is your next command?
+
+The locomotive on track 2 moved 0 cars to track 4.
+
+1: ----------------------
+2: ----------------------
+3: ----------------------
+4: ----------bbbbbbbbbbT-
+5: ----------------------
+*** ALERT***  The train on track 4, which had 10 cars, departs for destination b.
+
+The last locomotive has departed!
+
+1: ----------------------
+2: ----------------------
+3: ----------------------
+4: ----------------------
+5: ----------------------
+Locomotive count:  0
+Destination count: 0
+

@@ -1,0 +1,23 @@
+Please give the yard file:
+1: --------------------T-
+2: -----------cbbbbaaaaT-
+3: -----------aaabbbbbbT-
+4: ----------------------
+5: ----------------------
+Locomotive count:  3
+Destination count: 3
+
+What is your next command?
+
+ERROR: The 'to' track is the same as the 'from' track.
+1: --------------------T-
+2: -----------cbbbbaaaaT-
+3: -----------aaabbbbbbT-
+4: ----------------------
+5: ----------------------
+Locomotive count:  3
+Destination count: 3
+
+What is your next command?
+
+Quitting!

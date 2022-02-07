@@ -1,0 +1,5 @@
+yard2.txt
+move  x 2 4
+move  8 x 4
+move  8 2 x
+quit

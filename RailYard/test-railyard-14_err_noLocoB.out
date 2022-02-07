@@ -1,0 +1,46 @@
+Please give the yard file:
+1: --------------------T-
+2: -----------cbbbbaaaaT-
+3: -----------aaabbbbbbT-
+4: ----------------------
+5: ----------------------
+Locomotive count:  3
+Destination count: 3
+
+What is your next command?
+
+The locomotive on track 3 moved 0 cars to track 4.
+
+1: --------------------T-
+2: -----------cbbbbaaaaT-
+3: ------------aaabbbbbb-
+4: --------------------T-
+5: ----------------------
+Locomotive count:  3
+Destination count: 3
+
+What is your next command?
+
+ERROR: Cannot move from track 3 because it doesn't have a locomotive.
+1: --------------------T-
+2: -----------cbbbbaaaaT-
+3: ------------aaabbbbbb-
+4: --------------------T-
+5: ----------------------
+Locomotive count:  3
+Destination count: 3
+
+What is your next command?
+
+ERROR: Cannot move from track 3 because it doesn't have a locomotive.
+1: --------------------T-
+2: -----------cbbbbaaaaT-
+3: ------------aaabbbbbb-
+4: --------------------T-
+5: ----------------------
+Locomotive count:  3
+Destination count: 3
+
+What is your next command?
+
+Quitting!

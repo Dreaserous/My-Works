@@ -1,0 +1,24 @@
+Please give the yard file:
+1: --------------------T-
+2: -----------cbbbbaaaaT-
+3: ------------aaabbbbbb-
+4: --------------------T-
+5: ----------------------
+Locomotive count:  3
+Destination count: 3
+
+What is your next command?
+
+The locomotive on track 2 moved 8 cars to track 3.
+
+1: --------------------T-
+2: --------------------c-
+3: ---aaabbbbbbbbbbaaaaT-
+4: --------------------T-
+5: ----------------------
+Locomotive count:  3
+Destination count: 3
+
+What is your next command?
+
+Quitting!

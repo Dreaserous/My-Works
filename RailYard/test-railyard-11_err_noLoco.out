@@ -1,0 +1,25 @@
+Please give the yard file:
+1: ---------------cacbcaecaeT-
+2: ------------------aadcbccT-
+3: -------------bbaabecadbcde-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+ERROR: Cannot move from track 3 because it doesn't have a locomotive.
+1: ---------------cacbcaecaeT-
+2: ------------------aadcbccT-
+3: -------------bbaabecadbcde-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+Quitting!

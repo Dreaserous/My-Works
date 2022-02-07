@@ -1,0 +1,28 @@
+Please give the yard file:
+1: ---------------cacbcaecaeT-
+2: ------------------aadcbccT-
+3: -------------bbaabecadbcde-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+ERROR: The only valid command formats are (where each X represents an integer):
+move X X X
+quit
+
+1: ---------------cacbcaecaeT-
+2: ------------------aadcbccT-
+3: -------------bbaabecadbcde-
+4: --------------deaceecaabeT-
+5: ---------------baecabceddT-
+6: --------------aabaeddcecbT-
+Locomotive count:  5
+Destination count: 5
+
+What is your next command?
+
+Quitting!

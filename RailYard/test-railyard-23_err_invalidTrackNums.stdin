@@ -1,0 +1,12 @@
+yard2.txt
+move  0 0 1
+move  0 -1 1
+move  0 1 0
+move  0 1 -1
+move  4 6 3
+move  4 3 6
+move  4 7 3
+move  4 3 7
+move  4 8 3
+move  4 3 8
+quit
